@@ -1,0 +1,27 @@
+#================
+#HOSTFILE SAMPLE
+#================
+abc     
+abc
+10.23.124.2	alpha
+#Action 01
+122.123.123.0	beta
+##10.12.12.12	abc
+##3333
+######
+123.123.123.0	unknown
+
+####HELLO
+#10.12.124.12	delta
+#THIS IS SPARTA!!!
+
+no data here
+
+
+
+301.213.123.3	fail
+
+
+#EOF
+###Hello
+HELLO#
